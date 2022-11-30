@@ -8,7 +8,6 @@ import 'react-clock/dist/Clock.css';
 
 function App() {
 
-  const [city, setCity] = useState('')
   const [data, setData] = useState({})
 
 

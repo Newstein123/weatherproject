@@ -1,5 +1,4 @@
 import React from 'react'
-import {AiFillCloud} from 'react-icons/ai'
 
 
 const Card = ({data}) => {
